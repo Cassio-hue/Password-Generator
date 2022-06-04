@@ -27,4 +27,4 @@ Also, I put a custom icon in the .exe file. I took it from the site flaticon: <a
 <h2>Big problem!</h2>
 After compiling the main.py into an executable, I faced a big problem. When I download the archive (at my Dropbox), the Windows Defender accused it of being a virus. After that, I use the site VirusTotal to try it in others anti-virus. To my surprise, at the first time, 6 anti-virus thinks that is a trojan or a malicious archive.
 
-Moreover, I wasted a good time searching how make the pyinstall creates my .exe without this false positive. Sadly, the best I reached at VirusTotal display 4 of 65 of the tests and the Windows Defender keeps accusing it of being a malicious archive.
+Moreover, I wasted a good time searching how to make the pyinstaller creates my .exe without this false positive. Sadly, the best I reached at VirusTotal display 4 of 65 of the tests and the Windows Defender keeps accusing it of being a malicious archive.
