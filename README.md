@@ -9,13 +9,13 @@ Password Generator has a simple interface. All you do in this program, it is by 
 Explaning how it works:
 
 There are few types of password that you can choose to generate yours. Moreover, I really recommend you choose more than twelve characters for your password to be shure of that the password generated is really strong.
-L   => Only letters
-N   => Only numbers
-C   => Only special characters
-LN  => Letters and numbers
-LC  => Letters and special characters
-NC  => Numbers and special characters
-LNC => Letters, numbers and special characters
+L   => Only letters<br/>
+N   => Only numbers<br/>
+C   => Only special characters<br/>
+LN  => Letters and numbers<br/>
+LC  => Letters and special characters<br/>
+NC  => Numbers and special characters<br/>
+LNC => Letters, numbers and special characters<br/>
 
 After that, you can name your password and this name will be at the .txt file to separate password of others.
 
