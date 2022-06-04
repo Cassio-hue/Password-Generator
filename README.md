@@ -8,7 +8,7 @@ Password Generator has a simple interface. All you do in this program, it is by 
 
 Explaning how it works:
 
-There are few types of password that you can choose to generate yours. Moreover, I really recommend you choose more than twelve characters for your password to be shure of that the password generated is really strong.
+There are few types of password that you can choose to generate yours. Moreover, I really recommend you choose more than twelve characters for your password to be shure of that the password generated is really strong.<br/>
 L   => Only letters<br/>
 N   => Only numbers<br/>
 C   => Only special characters<br/>
