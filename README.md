@@ -19,7 +19,7 @@ LNC => Letters, numbers and special characters<br/>
 
 After that, you can name your password and this name will be at the .txt file to separate password of others.
 
-<h2>What I use to create this program:</h2>
+<h2>What I used to create this program:</h2>
 How I was leaning python and using it at my college, I choose it to create this program. Besides that, to create an executable of the python file I used the PyInstaller is a normal Python package.
 
 Also, I put a custom icon in the .exe file. I took it from the site flaticon: <a href="https://www.flaticon.com/free-icons/password" title="password icons">Password icons created by Freepik - Flaticon</a>
